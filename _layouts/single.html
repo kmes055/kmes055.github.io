@@ -58,6 +58,9 @@ layout: default
         {% endif %}
       </footer>
 
+      <section><div class="fb-comments" data-href={{ site.url | append: page.url }} 
+      style="width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important;"
+      data-numposts="5" ></div></section>
       {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}

@@ -1,3 +1,12 @@
+---
+title: "[교육후기]HTML/CSS 기초"
+categories:
+  - review
+tags:
+  - 교육
+  - FE
+---
+
 # HTML/CSS 교육
 
 처음 조금 놓침

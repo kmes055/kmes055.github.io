@@ -1,5 +1,5 @@
 ---
-title: "[스터디]인프라 엔지니어의 교과서"
+title: "[스터디]인프라 엔지니어의 교과서: 4장 네트워크"
 categories:
   - study
 tags:

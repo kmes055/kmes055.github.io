@@ -8,6 +8,7 @@ tags:
 ---
 
 # HTML/CSS 교육
+`교육 내용 출처: NHN  기술교육 - JavaScript 기본 (김성호 책임)`
 
 처음 조금 놓침
 * meta tag: 페이스북에서 만들었고, og:url og:image og:title 이런식으로 광고? 링크같은 걸 만들어줌. Open Graph Protocol

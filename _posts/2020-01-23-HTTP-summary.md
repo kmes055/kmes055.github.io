@@ -7,6 +7,7 @@ tags:
   - Linux
 ---
 # HTTP의 이해
+` 교육 내용 출처: NHN 기술교육 - HTTP의 이해 (김기태 책임)`
 
 ## HTTP
 * HypterText Transfer Protocol. OSI level 7 Application layer에 해당

@@ -8,6 +8,9 @@ tags:
 ---
 
 # Bash Tutorial
+
+`교육 내용 출처: NHN 기술교육 - bash tutorial (조영일 이사님)`
+
 Bash를 이용한 linux programming은 현업에서 일하면서 꾸준히 배워야 할 일이고, 지금 잘 배워둬서 앞날을 도모합시다!
 
 ## 소개
@@ -348,3 +351,4 @@ Bash를 이용한 linux programming은 현업에서 일하면서 꾸준히 배�
     * man 3 opendir
 * 특수 명령
     * 회사나 단체체별로 특수한 명령이 있을 수 있음
+    

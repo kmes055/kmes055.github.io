@@ -8,6 +8,7 @@ tags:
 ---
 
 # Javascript와 함께 하는 DOM 기초 for ROOKIES(v2020)
+`교육 내용 출처: NHN  기술교육 - JavaScript 기본 (김성호 책임)`
 
 ## 강의목표
 <strong>Todolist 만들기!</strong>
